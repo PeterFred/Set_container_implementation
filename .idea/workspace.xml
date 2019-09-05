@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="A2p2" targetName="A2p2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be61e968-63bf-4b0c-8f07-cd498da6557a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="44" column="10" lean-forward="false" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A2P2.h" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/A2P2.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding>
+                <element signature="e#30#50#0" expanded="true" />
+                <element signature="e#2895#2911#0" expanded="true" />
+                <element signature="e#7054#7070#0" expanded="true" />
+                <element signature="e#7171#7187#0" expanded="true" />
+                <element signature="e#7453#7469#0" expanded="true" />
+                <element signature="e#7774#7790#0" expanded="true" />
+                <element signature="e#7930#7946#0" expanded="true" />
+                <element signature="e#8311#8327#0" expanded="true" />
+                <element signature="e#8607#8623#0" expanded="true" />
+                <element signature="e#9118#9134#0" expanded="true" />
+                <element signature="e#9549#9565#0" expanded="true" />
+                <element signature="e#9819#9835#0" expanded="true" />
+                <element signature="e#10052#10068#0" expanded="true" />
+                <element signature="e#10607#10623#0" expanded="true" />
+                <element signature="e#10746#10762#0" expanded="true" />
+                <element signature="e#10908#10924#0" expanded="true" />
+                <element signature="e#11148#11164#0" expanded="true" />
+                <element signature="e#11505#11521#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>NULL</find>
+      <find>setToEmptySet</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cmake-build-debug/A2P2_ORIGINAL.h" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/A2P2.h" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="A2p2" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="A2p2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="A2p2" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="A2p2" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.A2p2">
+    <configuration name="A2p2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="A2p2" RUN_TARGET_NAME="A2p2" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.A2p2" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be61e968-63bf-4b0c-8f07-cd498da6557a" name="Default" comment="" />
+      <created>1506292830319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506292830319</updated>
+      <workItem from="1506292833926" duration="416000" />
+      <workItem from="1506302559134" duration="24407000" />
+      <workItem from="1506379687384" duration="13156000" />
+      <workItem from="1506884267988" duration="21000" />
+      <workItem from="1507268484909" duration="1438000" />
+      <workItem from="1507270070559" duration="1602000" />
+      <workItem from="1508017106228" duration="596000" />
+      <workItem from="1508176490186" duration="600000" />
+      <workItem from="1508878474474" duration="1257000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43493000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.77111113" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17777778" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09754797" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18777777" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13222222" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="10" lean-forward="false" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A2P2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="76" lean-forward="false" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+          <folding>
+            <element signature="e#30#50#0" expanded="true" />
+            <element signature="e#2895#2911#0" expanded="true" />
+            <element signature="e#7054#7070#0" expanded="true" />
+            <element signature="e#7171#7187#0" expanded="true" />
+            <element signature="e#7453#7469#0" expanded="true" />
+            <element signature="e#7774#7790#0" expanded="true" />
+            <element signature="e#7930#7946#0" expanded="true" />
+            <element signature="e#8311#8327#0" expanded="true" />
+            <element signature="e#8607#8623#0" expanded="true" />
+            <element signature="e#9118#9134#0" expanded="true" />
+            <element signature="e#9549#9565#0" expanded="true" />
+            <element signature="e#9819#9835#0" expanded="true" />
+            <element signature="e#10052#10068#0" expanded="true" />
+            <element signature="e#10607#10623#0" expanded="true" />
+            <element signature="e#10746#10762#0" expanded="true" />
+            <element signature="e#10908#10924#0" expanded="true" />
+            <element signature="e#11148#11164#0" expanded="true" />
+            <element signature="e#11505#11521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="10" lean-forward="false" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A2P2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="76" lean-forward="false" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+          <folding>
+            <element signature="e#30#50#0" expanded="true" />
+            <element signature="e#2895#2911#0" expanded="true" />
+            <element signature="e#7054#7070#0" expanded="true" />
+            <element signature="e#7171#7187#0" expanded="true" />
+            <element signature="e#7453#7469#0" expanded="true" />
+            <element signature="e#7774#7790#0" expanded="true" />
+            <element signature="e#7930#7946#0" expanded="true" />
+            <element signature="e#8311#8327#0" expanded="true" />
+            <element signature="e#8607#8623#0" expanded="true" />
+            <element signature="e#9118#9134#0" expanded="true" />
+            <element signature="e#9549#9565#0" expanded="true" />
+            <element signature="e#9819#9835#0" expanded="true" />
+            <element signature="e#10052#10068#0" expanded="true" />
+            <element signature="e#10607#10623#0" expanded="true" />
+            <element signature="e#10746#10762#0" expanded="true" />
+            <element signature="e#10908#10924#0" expanded="true" />
+            <element signature="e#11148#11164#0" expanded="true" />
+            <element signature="e#11505#11521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="10" lean-forward="false" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A2P2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="76" lean-forward="false" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+          <folding>
+            <element signature="e#30#50#0" expanded="true" />
+            <element signature="e#2895#2911#0" expanded="true" />
+            <element signature="e#7054#7070#0" expanded="true" />
+            <element signature="e#7171#7187#0" expanded="true" />
+            <element signature="e#7453#7469#0" expanded="true" />
+            <element signature="e#7774#7790#0" expanded="true" />
+            <element signature="e#7930#7946#0" expanded="true" />
+            <element signature="e#8311#8327#0" expanded="true" />
+            <element signature="e#8607#8623#0" expanded="true" />
+            <element signature="e#9118#9134#0" expanded="true" />
+            <element signature="e#9549#9565#0" expanded="true" />
+            <element signature="e#9819#9835#0" expanded="true" />
+            <element signature="e#10052#10068#0" expanded="true" />
+            <element signature="e#10607#10623#0" expanded="true" />
+            <element signature="e#10746#10762#0" expanded="true" />
+            <element signature="e#10908#10924#0" expanded="true" />
+            <element signature="e#11148#11164#0" expanded="true" />
+            <element signature="e#11505#11521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="10" lean-forward="false" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A2P2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3009">
+          <caret line="177" column="56" lean-forward="false" selection-start-line="177" selection-start-column="56" selection-end-line="177" selection-end-column="56" />
+          <folding>
+            <element signature="e#30#50#0" expanded="true" />
+            <element signature="e#2895#2911#0" expanded="true" />
+            <element signature="e#7054#7070#0" expanded="true" />
+            <element signature="e#7171#7187#0" expanded="true" />
+            <element signature="e#7453#7469#0" expanded="true" />
+            <element signature="e#7774#7790#0" expanded="true" />
+            <element signature="e#7930#7946#0" expanded="true" />
+            <element signature="e#8311#8327#0" expanded="true" />
+            <element signature="e#8607#8623#0" expanded="true" />
+            <element signature="e#9118#9134#0" expanded="true" />
+            <element signature="e#9549#9565#0" expanded="true" />
+            <element signature="e#9819#9835#0" expanded="true" />
+            <element signature="e#10052#10068#0" expanded="true" />
+            <element signature="e#10607#10623#0" expanded="true" />
+            <element signature="e#10746#10762#0" expanded="true" />
+            <element signature="e#10908#10924#0" expanded="true" />
+            <element signature="e#11148#11164#0" expanded="true" />
+            <element signature="e#11505#11521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A2P2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4658">
+          <caret line="274" column="0" lean-forward="false" selection-start-line="274" selection-start-column="0" selection-end-line="274" selection-end-column="0" />
+          <folding>
+            <element signature="e#30#50#0" expanded="true" />
+            <element signature="e#2895#2911#0" expanded="true" />
+            <element signature="e#7054#7070#0" expanded="true" />
+            <element signature="e#7171#7187#0" expanded="true" />
+            <element signature="e#7453#7469#0" expanded="true" />
+            <element signature="e#7774#7790#0" expanded="true" />
+            <element signature="e#7930#7946#0" expanded="true" />
+            <element signature="e#8311#8327#0" expanded="true" />
+            <element signature="e#8607#8623#0" expanded="true" />
+            <element signature="e#9118#9134#0" expanded="true" />
+            <element signature="e#9549#9565#0" expanded="true" />
+            <element signature="e#9819#9835#0" expanded="true" />
+            <element signature="e#10052#10068#0" expanded="true" />
+            <element signature="e#10607#10623#0" expanded="true" />
+            <element signature="e#10746#10762#0" expanded="true" />
+            <element signature="e#10908#10924#0" expanded="true" />
+            <element signature="e#11148#11164#0" expanded="true" />
+            <element signature="e#11505#11521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A2P2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4658">
+          <caret line="274" column="0" lean-forward="true" selection-start-line="274" selection-start-column="0" selection-end-line="274" selection-end-column="0" />
+          <folding>
+            <element signature="e#30#50#0" expanded="true" />
+            <element signature="e#2895#2911#0" expanded="true" />
+            <element signature="e#7054#7070#0" expanded="true" />
+            <element signature="e#7171#7187#0" expanded="true" />
+            <element signature="e#7453#7469#0" expanded="true" />
+            <element signature="e#7774#7790#0" expanded="true" />
+            <element signature="e#7930#7946#0" expanded="true" />
+            <element signature="e#8311#8327#0" expanded="true" />
+            <element signature="e#8607#8623#0" expanded="true" />
+            <element signature="e#9118#9134#0" expanded="true" />
+            <element signature="e#9549#9565#0" expanded="true" />
+            <element signature="e#9819#9835#0" expanded="true" />
+            <element signature="e#10052#10068#0" expanded="true" />
+            <element signature="e#10607#10623#0" expanded="true" />
+            <element signature="e#10746#10762#0" expanded="true" />
+            <element signature="e#10908#10924#0" expanded="true" />
+            <element signature="e#11148#11164#0" expanded="true" />
+            <element signature="e#11505#11521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="20" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A2P2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="114" column="19" lean-forward="false" selection-start-line="114" selection-start-column="19" selection-end-line="114" selection-end-column="19" />
+          <folding>
+            <element signature="e#30#50#0" expanded="true" />
+            <element signature="e#2895#2911#0" expanded="true" />
+            <element signature="e#7054#7070#0" expanded="true" />
+            <element signature="e#7171#7187#0" expanded="true" />
+            <element signature="e#7453#7469#0" expanded="true" />
+            <element signature="e#7774#7790#0" expanded="true" />
+            <element signature="e#7930#7946#0" expanded="true" />
+            <element signature="e#8311#8327#0" expanded="true" />
+            <element signature="e#8607#8623#0" expanded="true" />
+            <element signature="e#9118#9134#0" expanded="true" />
+            <element signature="e#9549#9565#0" expanded="true" />
+            <element signature="e#9819#9835#0" expanded="true" />
+            <element signature="e#10052#10068#0" expanded="true" />
+            <element signature="e#10607#10623#0" expanded="true" />
+            <element signature="e#10746#10762#0" expanded="true" />
+            <element signature="e#10908#10924#0" expanded="true" />
+            <element signature="e#11148#11164#0" expanded="true" />
+            <element signature="e#11505#11521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/A2P2_ORIGINAL.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A2P2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#30#50#0" expanded="true" />
+            <element signature="e#2895#2911#0" expanded="true" />
+            <element signature="e#7054#7070#0" expanded="true" />
+            <element signature="e#7171#7187#0" expanded="true" />
+            <element signature="e#7453#7469#0" expanded="true" />
+            <element signature="e#7774#7790#0" expanded="true" />
+            <element signature="e#7930#7946#0" expanded="true" />
+            <element signature="e#8311#8327#0" expanded="true" />
+            <element signature="e#8607#8623#0" expanded="true" />
+            <element signature="e#9118#9134#0" expanded="true" />
+            <element signature="e#9549#9565#0" expanded="true" />
+            <element signature="e#9819#9835#0" expanded="true" />
+            <element signature="e#10052#10068#0" expanded="true" />
+            <element signature="e#10607#10623#0" expanded="true" />
+            <element signature="e#10746#10762#0" expanded="true" />
+            <element signature="e#10908#10924#0" expanded="true" />
+            <element signature="e#11148#11164#0" expanded="true" />
+            <element signature="e#11505#11521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/A2P2_ORIGINAL.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="44" column="10" lean-forward="false" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A2P2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="e#30#50#0" expanded="true" />
+            <element signature="e#2895#2911#0" expanded="true" />
+            <element signature="e#7054#7070#0" expanded="true" />
+            <element signature="e#7171#7187#0" expanded="true" />
+            <element signature="e#7453#7469#0" expanded="true" />
+            <element signature="e#7774#7790#0" expanded="true" />
+            <element signature="e#7930#7946#0" expanded="true" />
+            <element signature="e#8311#8327#0" expanded="true" />
+            <element signature="e#8607#8623#0" expanded="true" />
+            <element signature="e#9118#9134#0" expanded="true" />
+            <element signature="e#9549#9565#0" expanded="true" />
+            <element signature="e#9819#9835#0" expanded="true" />
+            <element signature="e#10052#10068#0" expanded="true" />
+            <element signature="e#10607#10623#0" expanded="true" />
+            <element signature="e#10746#10762#0" expanded="true" />
+            <element signature="e#10908#10924#0" expanded="true" />
+            <element signature="e#11148#11164#0" expanded="true" />
+            <element signature="e#11505#11521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

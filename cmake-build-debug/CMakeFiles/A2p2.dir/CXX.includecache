@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/peter.LINCOLN/Dropbox/Uni/159.234 Object Orientated Programing/Assignment/A2p2/A2P2.h
+exception
+-
+iostream
+-
+
+C:/Users/peter.LINCOLN/Dropbox/Uni/159.234 Object Orientated Programing/Assignment/A2p2/main.cpp
+iostream
+-
+A2P2.h
+C:/Users/peter.LINCOLN/Dropbox/Uni/159.234 Object Orientated Programing/Assignment/A2p2/A2P2.h
+
